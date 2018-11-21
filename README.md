@@ -1,5 +1,7 @@
 # Get started
 
+## Environment
+
 First create the proper Anaconda environment using :
 
 `conda env create -f deepenv.yml`
@@ -12,4 +14,9 @@ Usually, the environment we like to prototype models using Python is Jupyter Not
 
 And it should open a web browser on a locally hosted server :-)
 
-Now you can go over the directory `notebooks/` and play around with the Jupyter Notebooks.
+## Data
+
+You may download ASAP one of the datasets we'll use (cats vs dogs !) 
+
+- Sample of 1K images / class : https://framadrop.org/r/9ebeOxTas7#VumhlR4Ct4J+E1BGjgQ2e+G8tozax2uUjvp1Yhzndmo= (link dies in 7 days)
+- Sample of 5K images / class : https://framadrop.org/r/QkeS-hLvt3#GpZDIyQrSBiRGJ5znS/LBWoEsQzOF44G+pIYGSSOyqg= (link dies in 24 hours)
