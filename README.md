@@ -2,6 +2,8 @@
 
 ## Environment
 
+If we didn't solve the git issue, download https://framadrop.org/r/T8GQ4m1SbT#WAy1YjAI9qel7PIG8I+GigEZFUFqyPOzX7h2dQSC01E= and unzip !
+
 First create the proper Anaconda environment using :
 
 `conda env create -f deepenv.yml`
