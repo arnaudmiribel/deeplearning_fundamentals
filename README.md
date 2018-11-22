@@ -2,7 +2,7 @@
 
 ## Environment
 
-If we didn't solve the git issue, download https://framadrop.org/r/T8GQ4m1SbT#WAy1YjAI9qel7PIG8I+GigEZFUFqyPOzX7h2dQSC01E= and unzip !
+If we didn't solve the git issue, download https://framadrop.org/r/zLXsNA4csN#rwdyzM9G/rqbs8bn5aqPPbbVFxKt1UYgd+2pbk4/YPg= and unzip !
 
 First create the proper Anaconda environment using :
 
